@@ -9,7 +9,12 @@
     "key5": "value5",
     "group3": {
       "key6": "value6",
+      "key7": "value7",
       "group4": {}
+    },
+    "group5": {},
+    "group6": {
+      "key8": "value8"
     }
   }
 }
