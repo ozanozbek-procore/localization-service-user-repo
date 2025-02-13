@@ -1,0 +1,15 @@
+{
+  "key1": "value1",
+  "key2": "value2",
+  "group1": {
+    "key3": "value3",
+    "key4": "value4"
+  },
+  "group2": {
+    "key5": "value5",
+    "group3": {
+      "key6": "value6",
+      "group4": {}
+    }
+  }
+}
