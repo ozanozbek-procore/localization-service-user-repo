@@ -1,25 +1,13 @@
 {
   "key1": "value111",
-  "key2": "value222",
   "group1": {
-    "key3": "value33",
-    "key4": "value444"
+    "key3": "value33"
   },
-  "key99": "value999",
   "group2": {
     "key5": "value5",
     "group3": {
-      "key6": "value666",
-      "group4": {
-        "key10": "value10"
-        "group7": {
-          "key25": "value910"
-        }
-      }
+      "key6": "value666"
     },
-    "group5": {},
-    "group6": {
-      "key8": "value8"
-    }
+    "group5": {}
   }
 }
