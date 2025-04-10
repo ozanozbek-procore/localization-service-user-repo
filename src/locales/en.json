@@ -6,10 +6,12 @@
   "keyZ2": "NEW VALUE 123",
   "keyZ3": "NEW VALUE 123",
   "keyZ4": "NEW VALUE 123",
+  "keyZ5": "NEW VALUE 123",
   "group1": {
     "key3": "value330",
     "key4": "value444",
-    "key5": "value555"
+    "key5": "value555",
+    "keyX1": "some value"
   },
   "key99": "value999",
   "group2": {
