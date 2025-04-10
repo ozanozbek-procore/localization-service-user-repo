@@ -1,33 +1,7 @@
 {
-  "key1": "value111",
-  "key2": "value222",
-  "keyXXX": "NEW VALUE",
-  "keyZZZZZZZ": "NEW VALUE 123",
-  "keyZ2": "NEW VALUE 123",
-  "keyZ3": "NEW VALUE 123",
-  "keyZ4": "NEW VALUE 123",
-  "keyZ5": "NEW VALUE 123",
-  "group1": {
-    "key3": "value330",
-    "key4": "value444",
-    "key5": "value555",
-    "keyX1": "some value"
-  },
-  "key99": "value999",
-  "group2": {
-    "key5": "value5",
-    "group3": {
-      "key6": "value666",
-      "group4": {
-        "key10": "value10",
-        "group7": {
-          "key25": "value910"
-        }
-      }
-    },
-    "group5": {},
-    "group6": {
-      "key8": "value8"
-    }
-  }
+  "add": "Add",
+  "apply": "Apply",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "update": "Update"
 }
