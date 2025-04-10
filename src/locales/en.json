@@ -3,5 +3,6 @@
   "apply": "Apply",
   "cancel": "Cancel",
   "confirm": "Confirm",
-  "update": "Update"
+  "update": "Update",
+  "delete": "Delete"
 }
