@@ -3,6 +3,7 @@
   "key2": "value222",
   "keyXXX": "NEW VALUE",
   "keyZZZZZZZ": "NEW VALUE 123",
+  "keyZ2": "NEW VALUE 123",
   "group1": {
     "key3": "value330",
     "key4": "value444",
