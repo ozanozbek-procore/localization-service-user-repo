@@ -2,14 +2,7 @@
   "key1": "value111",
   "key2": "value222",
   "keyXXX": "NEW VALUE",
-  "keyZZZZZZZ": "NEW VALUE 22222",
-  "keyQQQQQQQQ": "NEW VALUE 333333",
-  "keyAAAAA": "NEW VALUE 444",
-  "keySSSSSS": "NEW VALUE 5555",
-  "keyZAAAAA": "NEW VALUE 6666",
-  "keyZEEEEE": "NEW VALUE 7777",
-  "keyZUUUUU": "NEW VALUE 7777",
-  "keyZXXXXX": "NEW VALUE 7777",
+  "keyZZZZZZZ": "NEW VALUE 123",
   "group1": {
     "key3": "value330",
     "key4": "value444"
